@@ -46,8 +46,7 @@ The model is integrated into a simple and interactive Streamlit web interface fo
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/nithin849/paddy-Disease.git
-cd paddy-Disease
+git clone https://github.com/https://github.com/Bharath9542530187/paddy-disease
 
 
 
