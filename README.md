@@ -65,6 +65,6 @@ The actual training script and dataset are not included in this repo. The app us
 👨‍💻 Contributors
 This project was developed as part of a group academic project by:
 
-Shanmukh D
+Bharath S
 
 Nithin
